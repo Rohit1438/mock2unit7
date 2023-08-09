@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "first_name": "LeBron",
+      "last_name": "James"
+    },
+    {
+      "id": 2,
+      "first_name": "Stephen",
+      "last_name": "Curry"
+    },
+    {
+      "id": 3,
+      "first_name": "Kevin",
+      "last_name": "Durant"
+    },
+    {
+      "id": 4,
+      "first_name": "Kawhi",
+      "last_name": "Leonard"
+    },
+    {
+      "id": 5,
+      "first_name": "Giannis",
+      "last_name": "Antetokounmpo"
+    }
+  ]
+}
